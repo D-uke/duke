@@ -6,7 +6,7 @@ import duke.ui.Ui;
 import duke.storage.Storage;
 import duke.commons.DukeException;
 
-public class MarkCommand extends Command {
+public class MarkCommand extends Command { //done command
     
     int index;
     
