@@ -7,7 +7,7 @@ import duke.storage.Storage;
 import duke.data.taskList.TaskListAllTypes;
 import duke.commons.DukeException;
 
-public class FindCommand extends Command {
+public class FindCommand extends Command { //incomplete
 
     TaskListAllTypes filteredTasks;
     String[] keywords;
