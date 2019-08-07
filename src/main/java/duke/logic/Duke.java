@@ -60,5 +60,4 @@ public class Duke {
     private void exitApp() throws Exception {
         mainApp.stop();
     }
-
 }
