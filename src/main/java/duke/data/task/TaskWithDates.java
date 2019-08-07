@@ -12,6 +12,7 @@ public abstract class TaskWithDates extends Task {
         super(description);
     }
 
+    
     public void snooze(int day) throws DukeException {
         Calendar calendar = Calendar.getInstance();
         if (date == null) {
