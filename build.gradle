@@ -30,4 +30,3 @@ javafx {
 application {
     mainClassName = 'duke.DukeApp'
 }
-
