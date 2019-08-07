@@ -39,4 +39,5 @@ public class DukeApp extends Application implements Stoppable {
     public static void main(String[] args) {
         launch();
     }
+    
 }
