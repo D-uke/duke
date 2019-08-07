@@ -68,4 +68,5 @@ public class Ui {
                 DialogBox.getDukeDialog(msg, duke)
         );
     }
+    
 }
