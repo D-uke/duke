@@ -17,7 +17,7 @@ Duke Level 10 (Duke) is for those who *prefer to use a desktop app for schedulin
 
 == Quick Start
 
-.  Ensure you have Java `8` (revision `1.8.0_201` or later) installed in your Computer.
+.  Ensure you have Java `11` (revision `1.8.0_201` or later) installed in your Computer.
 +
 [NOTE]
 Only Java 8 is supported. +
