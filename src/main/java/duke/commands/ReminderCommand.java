@@ -8,7 +8,7 @@ import duke.data.taskList.TaskListWithDates;
 import duke.storage.Storage;
 import duke.ui.Ui;
 
-public class ReminderCommand extends Command {
+public class ReminderCommand extends Command { //half done 
 
     TaskListWithDates tasksWithDates;
     TaskListAllTypes tasksWithoutDates;
