@@ -9,4 +9,5 @@ public class CustomComparator implements Comparator<TaskWithDates> {
     public int compare(TaskWithDates t1, TaskWithDates t2) {
         return t1.getDate().compareTo(t2.getDate());
     }
+    
 }
