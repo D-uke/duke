@@ -76,4 +76,5 @@ public class TaskListAllTypes implements TaskList<Task> {
             throw new DukeException("This type of task cannot be snoozed!");
         }
     }
+    
 }
