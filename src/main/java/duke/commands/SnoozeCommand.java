@@ -7,9 +7,8 @@ import duke.storage.Storage;
 import duke.ui.Ui;
 
 public class SnoozeCommand extends Command {
-
     int index;
-    int day;
+    int day; //number of days to delay the task +ve delay, -ve bring forward
 
     public SnoozeCommand(int index, int day){
         this.index = index - 1;
